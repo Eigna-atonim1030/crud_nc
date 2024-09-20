@@ -41,7 +41,7 @@ export default function Login() {
           sx={{ backgroundColor: '#607AFB', color: '#FFF', padding: '0.75rem', textTransform: 'none', fontWeight: 'bold' }}
           onClick={handleLogin}
         >
-          Iniciar Sesión
+          Iniciar Sesión 
         </Button>
         <Typography sx={{ textAlign: 'center', marginTop: '1rem', color: '#606060' }}>
           ¿No tienes cuenta? <Button variant="text" sx={{ color: '#607AFB', textTransform: 'none' }}>Registrarse</Button>

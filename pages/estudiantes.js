@@ -8,7 +8,7 @@ export default function Estudiantes() {
       {/* Menú lateral */}
       <Box sx={{ width: '250px', backgroundColor: '#FFF', padding: '1rem', borderRadius: '8px', marginRight: '2rem' }}>
         <Typography variant="h6" sx={{ fontWeight: 'bold', marginBottom: '1.5rem' }}>
-          Menú
+          Menú "Que maneja el administrador"
         </Typography>
         <Box sx={{ display: 'flex', alignItems: 'center', gap: '1rem', paddingY: '0.5rem' }}>
           <HouseIcon />
